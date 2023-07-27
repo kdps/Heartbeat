@@ -103,42 +103,83 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 왼심장동맥 (Left coronary artery)
 
+심장의 왼쪽에 위치한 동맥으로, 주로 심장의 왼쪽 심근에 산소와 영양을 공급하는 역할
+
 # 카와사키병 (Kawasaki syndrome)
+
+유아들에게 발생하는 급성 전신성 혈관염으로, 발열, 점막염, 피부 발진 등의 증상과 함께 심장 혈관에 염증 생김
 
 # 관상동맥 (Coronary artery)
 
+심장 근육에 산소와 영양을 공급하는 혈관으로, 왼쪽과 오른쪽 관상동맥으로 나뉨
+
 # 엡스테인 심기형(Ebstein anomaly)
+
+선천적인 심장 질환으로, 삼첨판막이 이상적으로 발달하지 않고 심장 실이 비정상적으로 변형되는 상태
 
 # 심근의 단독 비경화증 (Noncompaction of Ventricular Myocardium)
 
+심실의 근육층 중 일부 영역이 축축한 상태
+
 # 제한심장근육병증 (Restrictive cardiomyopathy)
+
+심장 근육이 뻣뻣해지거나 경화하여 심장이 제한적으로 팽창되는 상태
 
 # 폐동맥압 (Pulmonary artery pressures)
 
+폐동맥 내의 혈압 수치를 말하며, 폐순환에 관련된 문제를 평가하는데 사용
+
 # 삼첨판역류 (Tricuspid regurgitation)
+
+심장의 삼첨판막이 역류하여 혈액이 역류하는 상태
 
 # 복부팽만 (Abdominal distension)
 
+복부의 부풀어 오름 현상
+
 # 적혈구 침강 속도 (Erythrocyte sedimentation rate)
+
+적혈구가 혈액 내에서 침강하는 속도로, 염증 반응의 정도를 평가하는데 사용
 
 # 심근경색증 (Myocardial infarction)
 
+심장근육의 일부 부위가 혈액 공급이 차단되어 손상되는 상태
+
 # 복통 (Abdominal pain)
+
+복부의 통증
 
 # 구토 (Vomiting)
 
+위 내용물이 입으로 역류하여 나오는 증상
+
 # 쓸개 (Gallbladder)
+
+간에서 생성된 담즙을 저장하고 농축시키는 기관
+
 # 조갑횡구증 (Beau line)
+
+손톱의 수평적인 노출 라인이 중간에 끊기거나 비틀려서 나타나는 손톱 이상
 
 # 콧물 (rhinorrhea)
 
+코에서 콧물이 비틀어나오는 증상
+
 # 폐 침윤 (Pulmonary infiltrate)
+
+폐 조직 내에 액체, 염증 또는 다른 물질이 침윤하여 보여지는 영상 소견
 
 # 표피탈락 (desquamation)
 
+피부의 표피 층이 소실되어 벗겨지는 현상
+
 # 마비성 장폐쇄 (Paralytic ileus)
 
+소화기관의 운동이 일시적으로 정지되어 배탈과 복통이 발생하는 상태
+
 # 황달 (Jaundice)
+
+피부와 눈이 노랗게 변하는 증상으로, 간 기능 이상이나 담도의 폐쇄 등이 원인
 
 # 혈청 아미노기전달효소 (Serum transaminase)
 
