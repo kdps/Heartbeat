@@ -158,3 +158,19 @@ Heart rhythm rate of 100 beats per min or greater on adult
 # 중추신경계 (Central Nervous System)
 
 # 스플라인 보간법 (Spline interpolation)
+
+# 심인성 쇼크 (cardiogenic shock)
+
+# 좌우단락 (left to right shunt)
+
+# 늑간 동맥 (Intercostal arteries)
+
+# 관상동맥 (Coronary arterial)
+
+# 사회인구학적인 (Sociodemographic)
+
+# 심근생검법 (Endomyocardial biopsy)
+
+# 원발성 심근 질환 (Primary myocardial disease)
+
+# 심장 바늘 생검 (Intracardiac needle biopsy)
