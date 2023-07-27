@@ -154,3 +154,7 @@ Heart rhythm rate of 100 beats per min or greater on adult
 # 가교 주기 (cross-bridge cycle)
 
 # 아데노신 3인산 (Adenosine triphosphat)
+
+# 중추신경계 (Central Nervous System)
+
+# 스플라인 보간법 (Spline interpolation)
