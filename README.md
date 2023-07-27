@@ -10,6 +10,8 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 만성 신우신염 (Chronic pyelonephritis)
 
+# 측두동맥염 (Temporal arteritis)
+
 # 강직성 척추염 (Ankylosing spondylitis)
 
 # 결핵성 골수염 (Tuberculous osteomyelitis)
