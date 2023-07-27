@@ -79,7 +79,7 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 콧물 (rhinorrhea)
 
-# 폐 침윤 (Pulmonary infiltrate)
+# 폐 침윤 (Pulmonary infiltrate)
 
 # 표피탈락 (desquamation)
 
