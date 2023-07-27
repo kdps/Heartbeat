@@ -67,3 +67,20 @@ Heart rhythm rate of 100 beats per min or greater on adult
 # 복부팽만 (Abdominal distension)
 
 # 적혈구 침강 속도 (Erythrocyte sedimentation rate)
+
+# 심근경색증 (Myocardial infarction)
+
+# 복통 (Abdominal pain)
+
+# 구토 (Vomiting)
+
+# 쓸개 (Gallbladder)
+# 조갑횡구증 (Beau line)
+
+# 콧물 (rhinorrhea)
+
+# 폐 침윤 (Pulmonary infiltrate)
+
+# 표피탈락 (desquamation)
+
+# 마비성 장폐쇄 (Paralytic ileus)
