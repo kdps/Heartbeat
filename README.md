@@ -84,3 +84,73 @@ Heart rhythm rate of 100 beats per min or greater on adult
 # 표피탈락 (desquamation)
 
 # 마비성 장폐쇄 (Paralytic ileus)
+
+# 황달 (Jaundice)
+
+# 혈청 아미노기전달효소 (Serum transaminase)
+
+# 알라닌아미노기전달효소 (Alanine aminotransferase)
+
+# C 반응성 단백 시험 (C-reactive protein)
+
+# 저알부민혈증 (hypoalbuminemia)
+
+# 급성기 단백질 (Acute Phase Proteins)
+
+# 혈소판증가증 (Thrombocytosis)
+
+# 만성 골수성 백혈병 (Chronic myeloid leukemia)
+
+# 가속기 (Accelerated phase)
+
+# 만성 안정기 (chronic stable phase)
+
+# 조혈모세포이식 (Hematopoietic stem cell transplantation)
+
+# 동종조혈모세포이식 (Allogeneic hematopoietic cell transplantation)
+
+# 무균성 농뇨 (Sterile pyuria)
+
+# 단백뇨 (Proteinuria)
+
+# 회음부 발진 (Perineal rash)
+
+# 가로 고랑 (Transverse furrows)
+
+# 안면 마비 (Facial palsy)
+
+# 우심실 유출로 (Right ventricular outflow tract)
+
+# 좌심실 유출로 (Left ventricular outflow tract)
+
+# 압력차 (Pressure gradient)
+
+# Modified Bruce Protocol
+
+# 양전자 방출 단층촬영 (Positron emission tomography)
+
+# 원위부 좌전 하행 관상 동맥 (distal left anterior descending coronary artery)
+
+# 확장기 기능 (Diastolic dysfunction)
+
+# 비대칭 중격비대 (Asymmetric septal hypertrophy)
+
+# 비후성 심근병증 (Hypertrophic cardiomyopathy)
+
+# 예비심박수 (Heart Rate Reserve)
+
+# 신진대사 해당치 (Metabolic Equivalent Task)
+
+# 자각적운동강도 (Rating of perceived exertion)
+
+# 골격근(skeletal muscle)
+
+# 평활근(smoothmuscle)
+
+# 심근(cardiac muscle)
+
+# 필라멘트 활주 메커니즘 (Sliding-filamentmechanism)
+
+# 가교 주기 (cross-bridge cycle)
+
+# 아데노신 3인산 (Adenosine triphosphat)
