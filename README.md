@@ -403,6 +403,8 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 유두근 ({apillary muscle)
 
+# 진행성 핵상마비 (progressive supranuclear palsy)
+
 # 건삭 (Chordae)
 
 # 심근층(Myocardial layer)
