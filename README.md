@@ -10,6 +10,8 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 만성 신우신염 (Chronic pyelonephritis)
 
+# 후두 신경통 (Occipital Neuralgia)
+
 # 크로이츠펠트-야콥병 (Creutzfeldt-Jakob disease)
 
 # 측두동맥염 (Temporal arteritis)
