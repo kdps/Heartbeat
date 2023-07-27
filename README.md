@@ -174,3 +174,82 @@ Heart rhythm rate of 100 beats per min or greater on adult
 # 원발성 심근 질환 (Primary myocardial disease)
 
 # 심장 바늘 생검 (Intracardiac needle biopsy)
+
+# 전주와 (antecubital fossa)
+
+# 서혜부 (inguinal region)
+
+# 심장전도계 (Cardiac Conduction System)
+
+# 부정맥 (Arrhythmia)
+
+# 난원공 개존증 (foramen ovale)
+
+# 중격엽 (Septal leaflet)
+
+# 전엽 (Anterior leaflet)
+
+# 후엽 (Posterior leaflet)
+
+# 삼첨판막 (Tricuspid valve)
+
+# 판막엽 (Leaflet)
+
+# 판먁륜 (Annulus)
+
+# 유두근 ({apillary muscle)
+
+# 건삭 (Chordae)
+
+# 심근층(Myocardial layer)
+
+# 심근조직 (Myocardial tissue)
+
+# 섬유성 변형 (Fibrous transformation)
+
+# 우심실 구혈률 (Right ventricular ejection fraction)
+
+# 비특이적 심실 내 전도 지연 (Nonspecific intraventricular conduction delay)
+
+# 뢴트겐 사진 (Roentgenogram)
+
+# 정상 굴리듬 (Normal sinus rhythm)
+
+# 엡스타인 기형 (Ebstein’s anomaly)
+
+# 폐동맥판 폐쇄 (Functional pulmonary atresia)
+
+# 역류성 수축기 심잡음 (holosystolic regurgitation murmur)
+
+# 말발굽리듬 (Gallop rhythm)
+
+# 월프-파킨슨-화이트증후군 (WPW syndrome)
+
+# 육주부 (trabecular portion)
+
+# 누두부 (Infundibular portion)
+
+# 수술전 (Preoperative)
+
+# 관상정맥동 (Coronary sinus)
+
+# 폐분리증 (Pulmonary sequestration)
+
+# 폐모세혈관쐐기압 (Pulmonary capillary wedge pressure)
+
+# 폐동정맥기형 (Pulmonary Arteriovenous Malformation)
+
+# 자궁내 막증 (Pulmonary endometriosis)
+
+# 폐격철 (Pulmonary Sequestration)
+
+# 폐동맥고혈압 (Pulmonary arterial hypertension)
+
+# 폐포단백질증 (Pulmonary alveolar proteinosis)
+
+# 특발성 폐섬유증 (Idiopathic pulmonary fibrosis)
+
+# 폐결절 (Pulmonary nodule)
+
+# 만성 폐쇄성 폐질환 (Chronic Obstructive Pulmonary Disease)
+
