@@ -87,6 +87,8 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 당원(글리코겐)의 대사 이상으로 인해 발생하는 유전적인 대사 질환
 
+# 척추 뇌저 동맥 증후군(Vertebro-basilar artery syndrome)
+
 # 심실상빈맥 (Supraventricular tachycardia)
 
 심장의 상부에서 발생하는 비정상적인 빠른 심장 박동. 심장 리듬에 이상이 생겨 발생
