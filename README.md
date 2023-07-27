@@ -183,49 +183,95 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 혈청 아미노기전달효소 (Serum transaminase)
 
+혈청에서 측정되는 효소로, 주로 간 기능을 평가하는데 사용. 그 외에는 알라닌아미노기전달효소(ALT)와 아스파타트아미노기전달효소(AST)가 사용됨
+
 # 알라닌아미노기전달효소 (Alanine aminotransferase)
+
+주로 간 세포에서 발견되며, 간 손상 여부를 평가하는데 사용되는 효소
 
 # C 반응성 단백 시험 (C-reactive protein)
 
+염증 반응에 의해 생겨나는 단백질로, 염증 상태를 감지하는데 사용되는 혈액 검사
+
 # 저알부민혈증 (hypoalbuminemia)
+
+혈청에서 알부민 농도가 정상 범위보다 낮은 상태로, 일반적으로 간 기능이나 영양 상태 등에 이상이 있는 상태
 
 # 급성기 단백질 (Acute Phase Proteins)
 
+염증과 같은 급성 반응에 의해 증가하는 혈장 단백질로, CRP, 페리틴 등이 이에 해당
+
 # 혈소판증가증 (Thrombocytosis)
+
+혈액 내 혈소판 수가 정상보다 증가하는 상태
 
 # 만성 골수성 백혈병 (Chronic myeloid leukemia)
 
+골수에서 비정상적으로 성숙되지 않은 백혈구의 수가 증가하는 혈액암의 한 유형
+
 # 가속기 (Accelerated phase)
+
+만성 골수성 백혈병의 진행 중, 만성 안정기에서 발병하여 질병이 더 빠르게 진행되는 단계
 
 # 만성 안정기 (chronic stable phase)
 
+만성 골수성 백혈병의 진행 중, 가장 질병이 안정된 상태
+
 # 조혈모세포이식 (Hematopoietic stem cell transplantation)
+
+조혈모세포를 이식하여 골수 기능을 회복시키는 치료 방법으로, 백혈병과 같은 혈액암 치료에 사용
 
 # 동종조혈모세포이식 (Allogeneic hematopoietic cell transplantation)
 
+다른 개인로부터 조혈모세포를 이식하는 방법
+
 # 무균성 농뇨 (Sterile pyuria)
+
+요뇨기관에서 백혈구가 발견되지만 세균이 감염을 일으키지 않는 상태
 
 # 단백뇨 (Proteinuria)
 
+소변에서 단백질이 검출되는 상태로, 신장 기능 이상이나 다른 신장 질환과 연관되어 있음
+
 # 회음부 발진 (Perineal rash)
+
+둔부와 생식기 주변의 피부에 생기는 발진
 
 # 가로 고랑 (Transverse furrows)
 
+손톱의 횡 방향으로 나타나는 주름 모양의 반복된 샘물
+
 # 안면 마비 (Facial palsy)
+
+얼굴의 일부 또는 전체에 발생하는 근육 운동 마비
 
 # 우심실 유출로 (Right ventricular outflow tract)
 
+우심실에서 폐동맥으로 혈액이 흘러가는 도관
+
 # 좌심실 유출로 (Left ventricular outflow tract)
+
+좌심실에서 대동맥으로 혈액이 흘러가는 도관
 
 # 압력차 (Pressure gradient)
 
+두 점 사이의 압력 차이를 의미하며, 심혈관계에서 혈압 차이를 평가하는 데 사용
+
 # Modified Bruce Protocol
+
+심장검사에서 사용되는 운동부하 테스트로, 걷기 또는 달리기로 부하를 주는 방식을 수정한 형태의 테스트
 
 # 양전자 방출 단층촬영 (Positron emission tomography)
 
+방사성 동위원소를 이용하여 생체 내 기능적인 정보와 대사 활동을 측정하는 영상 기법
+
 # 원위부 좌전 하행 관상 동맥 (distal left anterior descending coronary artery)
 
+심장의 좌심실과 관련하여 혈액을 공급하는 관상동맥의 하부 부분
+
 # 확장기 기능 (Diastolic dysfunction)
+
+심장이 이완하는 단계에서 기능이 저하되는 상태
 
 # 비대칭 중격비대 (Asymmetric septal hypertrophy)
 
