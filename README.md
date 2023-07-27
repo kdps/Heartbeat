@@ -4,6 +4,16 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 성인의 심장 박동수가 분당 100번 또는 그 이상으로 빨라지는 증상
 
+# 신세포암종 (Renal cell carcinoma)
+
+# 신경근병증 (Radiculopathy)
+
+# 만성 신우신염 (Chronic pyelonephritis)
+
+# 강직성 척추염 (Ankylosing spondylitis)
+
+# 결핵성 골수염 (Tuberculous osteomyelitis)
+
 # 말발굽리듬 (Ventricular Gallop Rhythm)
 
 심장의 소실기와 확장기 사이에 발생하는 세 개의 명료한 음과 함께 들리는 심음 현상
@@ -321,7 +331,61 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 심장전도계 (Cardiac Conduction System)
 
+# 윌슨병 (Willson disease)
+
+# 지주막하 출혈 (Subarachnoid hemorrhage)
+
+# 일과성 뇌허혈증 (Transient cerebral ischemia)
+
+# 이차성 파킨슨증 (Other parkinsonism)
+
+# 설인신경통 (Glossopharyngeal neuralgia)
+
+# 원발성 중추신경계 림프종 (Primary CNS lymphoma)
+
+# 외상성 경막하 출혈 (Traumatic subdural hemorrhage)
+
+# 양안격리증 (Hypertelorism)
+
+# 안면인식장애 (Prosopagnosia)
+
+# 스터지 웨버 증후군 (Sturge Weber Syndrome)
+
+# 수두증 (Hydrocephalus)
+
+# 수막종 (Meningioma)
+
+# 베르니케 코시코프 증후군 (Wernicke-korsakoff syndrome)
+
+# 두개 유합증 (Craniosynostosis)
+
+# 교모세포종 (Glioblastoma)
+
+# 뇌출혈 (Cerebral hemorrhage)
+
+# 뇌성 마비 (Cerebral palsy)
+
+# 뇌경색 (Cerebral infarction)
+
+# 뇌동맥 폐쇄 (Occlusion of cerebral artery)
+
+# 뇌농양 (Brain abscess)
+
+# 척수 종양 (Spinal Cord tumor)
+
+# 결핵성 수막염 (Tuberculous meningitis)
+
+# 뇌 동정맥 기형 (Cerebral arteriovenous malformation)
+
+# 거스트만 증후군 (Gerstmann Syndrome)
+
 # 부정맥 (Arrhythmia)
+
+# 요추 전방전위증 (Lumbar spondylolisthesis)
+
+# 요로 감염(Urinary tract infection)
+
+# 완전 척수 손상 (Complete cord injury)
 
 # 난원공 개존증 (foramen ovale)
 
