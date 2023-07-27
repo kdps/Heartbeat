@@ -217,7 +217,7 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 엡스타인 기형 (Ebstein’s anomaly)
 
-# 폐동맥판 폐쇄 (Functional pulmonary atresia)
+# 폐동맥판 폐쇄 (Pulmonary atresia)
 
 # 역류성 수축기 심잡음 (holosystolic regurgitation murmur)
 
@@ -252,4 +252,8 @@ Heart rhythm rate of 100 beats per min or greater on adult
 # 폐결절 (Pulmonary nodule)
 
 # 만성 폐쇄성 폐질환 (Chronic Obstructive Pulmonary Disease)
+
+# 정맥동 연결 (Sinusoidal communication)
+
+# 승모판절개술 (mitral valvulotomy)
 
