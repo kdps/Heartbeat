@@ -1,5 +1,3 @@
-# Heartbeat
-
 # 빠른부정맥 (Ventricular Tachyarrhythmia)
 
 Heart rhythm rate of 100 beats per min or greater on adult
@@ -10,3 +8,16 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 심장비대 (Cardiomegaly)
 
+# 빠른호흡 (Tachypnea)
+
+# 쌕쌕거림 (Wheeze)
+
+# 청색증 (Cyanosis)
+
+# 호흡장애 (Dyspnea)
+
+# 정맥울혈 (Venous Congestion)
+
+# 간비대 (Hepatomegaly)
+
+# 말초부종 (Peripheral edema)
