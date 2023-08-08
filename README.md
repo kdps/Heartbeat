@@ -566,3 +566,19 @@ Heart rhythm rate of 100 beats per min or greater on adult
 # 인지질 (phospholipid)
 
 # 생체막 (biological membrane)
+
+# 왼휘돌이동맥 (left circumflex artery)
+
+# 히스 섬유다발 (Bundle  of  His)
+
+# 왼관상동맥 휘돌이가지 (circumflex branch of the left coronary artery)
+
+# 좌주관동맥 (left main coronary artery)
+
+# 동방결절 (Sinoatrial node)
+
+# 우관상동맥 (right coronary artery)
+
+# 전방하행 동맥 (left anterior descending artery)
+
+# 사이원반 (intercalated discs)
