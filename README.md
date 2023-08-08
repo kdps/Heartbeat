@@ -463,6 +463,10 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 폐모세혈관쐐기압 (Pulmonary capillary wedge pressure)
 
+# 목갈비동맥 (costocervical trunk)
+
+# 갑상목동맥 (thyrocervical trunk)
+
 # 폐동정맥기형 (Pulmonary Arteriovenous Malformation)
 
 # 자궁내 막증 (Pulmonary endometriosis)
