@@ -399,6 +399,8 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 난원공 개존증 (foramen ovale)
 
+# 온목동맥 (common carotid artery)
+
 # 중격엽 (Septal leaflet)
 
 # 전엽 (Anterior leaflet)
