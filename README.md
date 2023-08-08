@@ -417,6 +417,8 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 건삭 (Chordae)
 
+# 척색 힘줄 (Chordae Tendineae)
+
 # 심근층(Myocardial layer)
 
 # 심근조직 (Myocardial tissue)
@@ -434,6 +436,8 @@ Heart rhythm rate of 100 beats per min or greater on adult
 # 엡스타인 기형 (Ebstein’s anomaly)
 
 # 폐동맥판 폐쇄 (Pulmonary atresia)
+
+# 후방 교합 (Posterior Commissure)
 
 # 역류성 수축기 심잡음 (holosystolic regurgitation murmur)
 
@@ -527,15 +531,37 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 근장그물 (sarcoplasmic retinaculum)
 
+# 승모판역류 (mitral regurgitation)
+
+# 전외측 유두 상근 (Papillary muscle)
+
+# 둔각변연분지 (obtuse marginal branch)
+
+# 성문후부 (Posterior Glottis)
+
 # T세관 (T-tubules)
 
+# 후부 (Posterior)
+
 # 가로소관 (transverse tubules)
+
+# 상대정맥 (Superior vena cava)
+
+# 하대정맥 (Inferior vena cava) 
+
+# 승모판막 (Mitral valve)
+
+# 대동맥판막 (Aortic valve) 
 
 # 지질 이중층 (lipid bilayer)
 
 # 인지질 이중층 (phospholipid bilayer)
 
+# 후교련 (Posterior commissure)
+
 # 친수성 (Hydrophile)
+
+# 복장뼈 (breastbone)
 
 # 인지질 (phospholipid)
 
