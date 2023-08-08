@@ -95,6 +95,8 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 척추 뇌저 동맥 증후군(Vertebro-basilar artery syndrome)
 
+# 빠른맥 (tachycardia)
+
 # 심실상빈맥 (Supraventricular tachycardia)
 
 심장의 상부에서 발생하는 비정상적인 빠른 심장 박동. 심장 리듬에 이상이 생겨 발생
@@ -469,5 +471,72 @@ Heart rhythm rate of 100 beats per min or greater on adult
 
 # 정맥동 연결 (Sinusoidal communication)
 
-# 승모판절개술 (mitral valvulotomy)
+# 승모판절개술 (Mitral valvulotomy)
 
+# 폐동맥간 (Pulmonary trunk)
+
+# 주폐동맥 (Main pulmonary artery)
+
+# 세분절동맥 (Subsegmental pulmonary arteries)
+
+# 소엽속동맥 (Intralobular arteries)
+
+# 심장속막대롱 (Endocardial tubes)
+
+# 심장팽배 (Bulbus cordis)
+
+# 안장 색전 (saddle embolus)
+
+# 동맥간 (truncus arteriosu)
+
+# 심실세동 (Ventricular fibrillation)
+
+# 척골동맥 (Ulnar artery)
+
+# 요골동맥 (radial artery)
+
+# 경동맥 (carotid artery)
+
+# 상완동맥 (brachial artery)
+
+# 고동맥 (femoral artery)
+
+# 후경골동맥 (posterior tibial artery)
+
+# 발등동맥 (dorsalis pedis)
+
+# 오금동맥 (popliteal artery)
+
+# 복대동맥 (abdominal aorta)
+
+# 표재성측두동맥 (superficial temporal artery)
+
+# 안면동맥 (facial artery)
+
+# 뇌저동맥 (basilar artery)
+
+# 서맥 (bradycardia)
+
+# 마판증후군 (Marfan's syndrome)
+
+# 굴심방결절 (sinoatrial node)
+
+# 간극연접 (gap junction)
+
+# 배아 (embryo)
+
+# 근장그물 (sarcoplasmic retinaculum)
+
+# T세관 (T-tubules)
+
+# 가로소관 (transverse tubules)
+
+# 지질 이중층 (lipid bilayer)
+
+# 인지질 이중층 (phospholipid bilayer)
+
+# 친수성 (Hydrophile)
+
+# 인지질 (phospholipid)
+
+# 생체막 (biological membrane)
